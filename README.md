@@ -23,6 +23,10 @@ Benefits.
 ·       ANN has also successfully extended its portfolio of products and services from a single website to several websites, video content and a mobile application, since migrating to the AWS Cloud. 
 ·       Furthermore, through competitive pricing offered by AWS, including regular reductions and being able to pay only for the infrastructure resources used, ANN has been able to control costs and budget effectively.
 ·       Using AWS has given ANN the confidence to evaluate using advanced tools such as machine learning and artificial intelligence to deliver on a range of new products. 
+
+
+
+
 2.   Buzzdial Case Study
 Founded in 2013, Buzzdial builds technologies that enable publishers and broadcasters, as well as brands, to supplement television shows with a cross-screen digital experience that can be accessed on viewers’ computers, tablets and mobile phones, and integrated with the broadcast.
 The Challenge
